@@ -9,7 +9,7 @@
 ## 🚀 Features
 
 - **AI-Driven Command Emulation**:  
-  - Simulates `bash` commands (e.g., `ls`, `curl`, `git`) using AI (via [Pollinations.ai](https://text.pollinations.ai)).
+  - Simulates `bash` commands (e.g., `ls`, `curl`, `git`) using AI (via [Pollinations.ai](https://pollinations.ai)).
   - No real system impact—perfect for experimentation and learning.
 
 - **Safety First**:  
