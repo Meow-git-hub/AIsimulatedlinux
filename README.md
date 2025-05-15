@@ -26,3 +26,13 @@
 git clone https://github.com/yourusername/simulated-linux-terminal.git
 cd simulated-linux-terminal
 pip install requests
+py main.py
+'''
+
+## 🛠️ Compilation
+
+'''bash
+git clone https://github.com/yourusername/simulated-linux-terminal.git
+cd simulated-linux-terminal
+pip install requests pyinstaller
+pyinstaller --onefile main.py
